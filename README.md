@@ -72,6 +72,8 @@ This data source was gitten from open source dataset platform, on Kagel to be pr
   - Invest in merchandising and brand partnerships, leveraging the popularity of the game to create alternate revenue streams (toys, animation, comics).
   - 
 
-  #### 😀 You don't want to miss out in insightful recommendations for your datasets, now let discuss yiur business concern. I am here to make it decision easy making 
+  #### 😀 Thank you for reading
+
+ ### You don't want to miss out on insightful recommendations for your datasets, now let discuss yiur business concern. I am here to make it decision easy making 
 
 
