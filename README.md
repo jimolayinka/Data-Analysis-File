@@ -4,6 +4,10 @@
 
 This analysis explores sales trends within the video game industry, identifying key drivers of popularity and platform preferences
 
+![20241019_073826](https://github.com/user-attachments/assets/e3d80862-45dc-4140-931d-fd27c52ef675)
+![20241019_073729](https://github.com/user-attachments/assets/4e7500a1-82e2-4e2a-942e-57885b6f6302)
+![20241019_073622](https://github.com/user-attachments/assets/9055d76b-a35b-462d-b396-79626eb9d9fe)
+
 
 
 ### Data Source
