@@ -4,7 +4,7 @@
 
 This analysis explores sales trends within the video game industry, identifying key drivers of popularity and platform preferences
 
-
+20241019_073826.jpg
 
 ### Data Source
 
