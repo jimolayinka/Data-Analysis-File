@@ -4,6 +4,8 @@
 
 This analysis explores sales trends within the video game industry, identifying key drivers of popularity and platform preferences
 
+
+
 ### Data Source
 
 This data source was gitten from open source dataset platform, on Kagel to be precise 
@@ -28,3 +30,11 @@ This data source was gitten from open source dataset platform, on Kagel to be pr
 
 
 ### Results 
+- Plants vs. Zombies emerges as the top-selling and most popular title.
+- The year 2008 stands out for the highest total game sales, especially in the music genre.
+- Platform analysis highlights PlayStation consoles as market leaders, particularly in the action-adventure category. 
+
+
+### Recommendations 
+
+These findings offer strategic direction for reviving successful game franchises and expanding genre diversity on trending platforms to align with both nostalgic and evolving gamer interests.
