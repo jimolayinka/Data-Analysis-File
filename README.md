@@ -13,7 +13,7 @@ This analysis explores sales trends within the video game industry, identifying 
 
 ### Data Source
 
-This data source was gitten from open source dataset platform, on Kagel to be precise 
+This data source was gotten from open source dataset platform, on Kaggle to be precise 
 
 ### Tools Used
 - Excel for Data Cleaning
